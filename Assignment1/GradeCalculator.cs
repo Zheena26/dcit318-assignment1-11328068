@@ -1,4 +1,5 @@
-﻿class GradeCalculator{
+﻿/* updated by Zheena26*/
+class GradeCalculator{
     static void Main()
   {
         Console.Write("Enter numerical grade (0 - 100): ");
