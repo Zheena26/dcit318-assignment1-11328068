@@ -1605,9 +1605,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Documents\\DCIT318-ASSIGNMENTS\\MedicalBookingSolution\\MedicalBookingSolution\\MedicalBookingSolution.csproj",
-      "projectName": "MedicalBookingSolution",
-      "projectPath": "C:\\Users\\Administrator\\Documents\\DCIT318-ASSIGNMENTS\\MedicalBookingSolution\\MedicalBookingSolution\\MedicalBookingSolution.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Documents\\DCIT318-ASSIGNMENTS\\MedicalBookingSolution\\MedicalBookingSolution\\dcit318-assignment4-11328068.csproj",
+      "projectName": "dcit318-assignment4-11328068",
+      "projectPath": "C:\\Users\\Administrator\\Documents\\DCIT318-ASSIGNMENTS\\MedicalBookingSolution\\MedicalBookingSolution\\dcit318-assignment4-11328068.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Administrator\\Documents\\DCIT318-ASSIGNMENTS\\MedicalBookingSolution\\MedicalBookingSolution\\obj\\",
       "projectStyle": "PackageReference",
